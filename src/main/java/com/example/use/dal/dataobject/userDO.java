@@ -13,6 +13,9 @@ import lombok.*;
 @AllArgsConstructor
 class userDO {
 
+    /**
+     * id
+     */
     private Long id;
 
     private String name;
